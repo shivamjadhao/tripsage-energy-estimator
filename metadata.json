@@ -1,0 +1,5 @@
+{
+  "name": "TripSage",
+  "description": "Calculate and compare fuel costs, energy consumption, and CO₂ emissions for your trips. Optimize your journey with smart insights.",
+  "requestFramePermissions": []
+}
