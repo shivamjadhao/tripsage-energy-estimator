@@ -1,16 +1,50 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🚗 TripSage – Smart Trip Energy & Cost Estimator
 
-# Run and deploy your AI Studio app
+TripSage is an AI-powered application that estimates fuel or electricity consumption, travel cost, and CO₂ emissions for trips based on distance, vehicle type, and driving conditions. It helps users make informed and cost-effective travel decisions.
 
-This contains everything you need to run your app locally.
+🔍 Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1YZZU0pj_gBWTpzH7IsteahY2z87cmTQ0
+Estimate fuel or EV energy required for a trip
 
-## Run Locally
+Calculate travel cost using current fuel/electricity prices
 
-**Prerequisites:**  Node.js
+Compare multiple vehicles based on mileage and efficiency
+
+Estimate carbon emissions for petrol, diesel, and EVs
+
+Simple, data-driven recommendations to reduce trip cost
+
+🛠 Tech Stack
+
+Python
+
+Pandas & NumPy
+
+FastAPI / Flask (backend)
+
+Google AI Studio (Gemini) for insights & explanations
+
+Plotly / Matplotlib for visualizations
+
+📊 How It Works
+
+User inputs trip distance or route
+
+Selects vehicle type or model
+
+App calculates energy usage, cost, and emissions
+
+Displays comparison and recommendations
+
+🚀 Future Enhancements
+
+Google Maps API integration for real-time distance
+
+Live fuel and electricity pricing
+
+User accounts and trip history
+
+Mobile-friendly UI
 
 
 1. Install dependencies:
